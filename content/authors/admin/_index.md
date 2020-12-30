@@ -23,18 +23,18 @@ interests:
 
 education:
   courses:
- -  course : "Ph.D. in Applied Mathematics"
-  institution : "Indian University"
-  year : 2009
- -  course : "Ph.D. Minor in Scientific Computing"
-  institution : "Indian University"
-  year : 2009
- -  course : "M.A. in Mathematics"
-  institution : "Indian University"
-  year : 2004
- -  course : "B.S. in Mathematics"
-  institution : "Fudan University"
-  year : 2002
+  - course : "Ph.D. in Applied Mathematics"
+    institution : "Indian University"
+    year : 2009
+  - course : "Ph.D. Minor in Scientific Computing"
+    institution : "Indian University"
+    year : 2009
+  - course : "M.A. in Mathematics"
+    institution : "Indian University"
+    year : 2004
+  - course : "B.S. in Mathematics"
+    institution : "Fudan University"
+    year : 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
