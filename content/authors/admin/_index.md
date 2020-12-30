@@ -32,23 +32,16 @@ education:
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
-[[education.courses]]
-  course : "Ph.D. in Applied Mathematics"
+ -  course : "Ph.D. in Applied Mathematics"
   institution : "Indian University"
   year : 2009
-
-[[education.courses]]
-  course : "Ph.D. Minor in Scientific Computing"
+ -  course : "Ph.D. Minor in Scientific Computing"
   institution : "Indian University"
   year : 2009
-
-[[education.courses]]
-  course : "M.A. in Mathematics"
+ -  course : "M.A. in Mathematics"
   institution : "Indian University"
   year : 2004
-
-[[education.courses]]
-  course : "B.S. in Mathematics"
+ -  course : "B.S. in Mathematics"
   institution : "Fudan University"
   year : 2002
 
