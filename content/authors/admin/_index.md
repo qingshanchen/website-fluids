@@ -1,55 +1,68 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Qingshan Chen
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor of Math
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Clemson University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include fluid dynamics, numerical methods, scientific computation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Fluid Mechanics
+- Partial Differential Equations
+- Numerical Analysis
 
 education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+# - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
+[[education.courses]]
+  course = "Ph.D. in Applied Mathematics"
+  institution = "Indian University"
+  year = 2009
+
+[[education.courses]]
+  course = "Ph.D. Minor in Scientific Computing"
+  institution = "Indian University"
+  year = 2009
+
+[[education.courses]]
+  course = "M.A. in Mathematics"
+  institution = "Indian University"
+  year = 2004
+
+[[education.courses]]
+  course = "B.S. in Mathematics"
+  institution = "Fudan University"
+  year = 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=uKMfCMMAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/qingshanchen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,6 +81,11 @@ user_groups:
 - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Qingshan Chen is an Associate Professor of Mathematics at Clemson University. He obtained
+a Ph.D. in applied mathematics from [Indiana University](http://www.math.indiana.edu) in 2009, under the supervision of [Professor
+Roger Temam](http://mypage.iu.edu/~temam). 
+He spent two years at FSU, working with [Professor Max Gunzburger](http://people.sc.fsu.edu/~mgunzburger/) on regional climate
+modeling. Afterwards, he spent two years at the Los Alamos Nat'l Lab, working with [Dr. Todd Ringler](http://www.toddringler.me)
+and the COSIM group
+on ocean and climate modeling.
+In 2013, he joined the computational math group at Clemson University. 
