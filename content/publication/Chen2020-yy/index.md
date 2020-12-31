@@ -27,8 +27,9 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: '#'
+# Use the following format to add a custom link
+#- name: Custom Link
+#  url: '#'
 url_pdf: https://arxiv.org/abs/2002.02484
 url_code: '#'
 url_project: ''

@@ -28,8 +28,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: '#'
+#- name: Custom Link
+#  url: '#'
 url_pdf: https://arxiv.org/abs/1905.12102
 url_code: '#'
 url_project: ''
