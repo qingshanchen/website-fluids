@@ -1,6 +1,6 @@
 +++
 title = "On the well-posedness of the inviscid multi-layer quasi-geostrophic equations"
-date = "2018-09-01"
+date = "2019-06-01"
 note = "accepted"
 authors = ["ChenQ"]
 publication_types = ["2"]
