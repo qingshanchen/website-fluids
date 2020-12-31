@@ -61,8 +61,8 @@ the vertical layers require more elaborate estimates
 on the streamfunctions.
 
 ## Chronicle of developments
-1. In [Chen (2017)]({{<ref "publication/Chen2017-fh.md">}}) we established the global well-posedness of the
+1. In [Chen (2017)]({{<ref "publication/Chen2019-fh/index.md">}}) we established the global well-posedness of the
 inviscid barotropic QG equation on a bounded domain.
 
-2. [Chen (2018)]({{<ref "publication/Chen2018-bn.md">}}) dealt with the global well-posedness of the
+2. [Chen (2018)]({{<ref "publication/Chen2019-bn/index.md">}}) dealt with the global well-posedness of the
 multi-layer QG equation. Here, due to the layer interactions, more elaborate estimates were required.
