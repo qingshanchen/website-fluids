@@ -1,6 +1,6 @@
 ---
 title: "Conservative numerical schemes with optimal dispersive wave
-              relations -- Part I. Numerical evaluations"
+              relations -- Part II. Numerical evaluations"
 authors:
 - ChenQ
 - Lili Ju
