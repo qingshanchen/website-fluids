@@ -1,7 +1,7 @@
 +++
 title = "The Multilevel Monte Carlo Method for Simulations of Turbulent Flows"
 date = "2018-09-01"
-authors = [ChenQ,"J. Ming"]
+authors = ["ChenQ","J. Ming"]
 publication_types = ["2"]
 publication = "_Mon. Weather Rev._"
 publication_short = ""
