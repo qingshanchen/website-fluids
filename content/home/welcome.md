@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-We do research on the analysis and computation of geophysical flows. 
+to research on the dynamics of fluid flows.
