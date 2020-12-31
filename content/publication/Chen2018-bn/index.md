@@ -1,8 +1,8 @@
 +++
 title = "On the well-posedness of the inviscid multi-layer quasi-geostrophic equations"
-date = "2018-06-01"
+date = "2018-09-01"
 note = "accepted"
-authors = ["Q. Chen"]
+authors = ["ChenQ"]
 publication_types = ["2"]
 publication = "Discrete and Continuous Dynamical Systems Ser.~A"
 publication_short = "_DCDS-A_"
@@ -17,4 +17,4 @@ highlight = true
 image = ""
 caption = ""
 +++
-accepted.
+

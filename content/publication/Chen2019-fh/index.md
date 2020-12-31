@@ -1,7 +1,7 @@
 +++
 title = "The barotropic quasi-geostrophic equation under a free surface"
-date = "2018-07-01"
-authors = ["Q. Chen"]
+date = "2019-01-01"
+authors = ["ChenQ"]
 publication_types = ["2"]
 publication = "_SIAM Math. Anal._"
 publication_short = ""
@@ -15,5 +15,3 @@ highlight = true
 image = ""
 caption = ""
 +++
-
-accepted
