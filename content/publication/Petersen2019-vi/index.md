@@ -4,7 +4,7 @@ date = "2018-05-01"
 authors = ["M. Petersen","X. Asay-Davis","A. Berres","Q. Chen","N. Feige","D. Jacobsen","J. Philip and Maltrud, Mathew","T. Ringler","S. Gregory and Turner, Adrian","L. Van Roekel","V. Milena and Wolfe, Jonathan","P. Wolfram","J. Woodring"]
 publication_types = ["2"]
 publication = "_JAMES_"
-publication_short = ""
+publication_short = "JAMES"
 image_preview = ""
 selected = false
 projects = ["turbulence"]
@@ -16,4 +16,3 @@ image = ""
 caption = ""
 +++
 
-under revision

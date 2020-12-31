@@ -11,7 +11,7 @@ role: Associate Professor of Math
 # Organizations/Affiliations
 organizations:
 - name: Clemson University
-  url: ""
+  url: "http://www.clemson.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fluid dynamics, numerical methods, scientific computation.
