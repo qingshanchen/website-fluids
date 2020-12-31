@@ -43,4 +43,4 @@ according to the grid resolution. It was shown that this scale-aware version pro
 little or no parameter tuning on a range of grid resolutions.
 
 2. I extended the GM closure onto the general vertical coordinates ([Saenz 2015]({{<ref "publication/Saenz2015-xk">}}),
-[Petersen 2018]({{<ref "publication/Petersen2018-vi">}})). 
+[Petersen 2019]({{<ref "publication/Petersen2019-vi">}})). 
