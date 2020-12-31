@@ -24,13 +24,13 @@ interests:
 education:
   courses:
   - course : "Ph.D. in Applied Mathematics"
-    institution : "Indian University"
+    institution : "Indiana University"
     year : 2009
   - course : "Ph.D. Minor in Scientific Computing"
-    institution : "Indian University"
+    institution : "Indiana University"
     year : 2009
   - course : "M.A. in Mathematics"
-    institution : "Indian University"
+    institution : "Indiana University"
     year : 2004
   - course : "B.S. in Mathematics"
     institution : "Fudan University"
