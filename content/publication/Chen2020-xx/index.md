@@ -31,10 +31,10 @@ links:
 #- name: Custom Link
 #  url: '#'
 url_pdf: https://arxiv.org/abs/1905.12102
-url_code: '#'
-url_project: ''
-url_slides: ''
-url_video: '#'
+url_code: 'https://github.com/qingshanchen/MOP'
+url_project: 'MOP'
+#url_slides: ''
+
 
 
 # Associated Projects (optional).
