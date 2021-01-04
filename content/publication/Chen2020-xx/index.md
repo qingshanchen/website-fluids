@@ -32,7 +32,7 @@ links:
 #  url: '#'
 url_pdf: https://arxiv.org/abs/1905.12102
 url_code: 'https://github.com/qingshanchen/MOP'
-url_project: 'MOP'
+url_project: "MOP"
 #url_slides: ''
 
 
