@@ -32,7 +32,6 @@ links:
 #  url: '#'
 url_pdf: https://arxiv.org/abs/1905.12102
 url_code: 'https://github.com/qingshanchen/MOP'
-url_project: "MOP"
 #url_slides: ''
 
 
@@ -43,7 +42,7 @@ url_project: "MOP"
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- []
+- "MOP"
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
