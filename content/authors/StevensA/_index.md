@@ -6,12 +6,12 @@ title: Alex Stevens
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Clemson University
-  url: "http://www.clemson.edu"
+- name: Cummins (last known)
+  url: "http://www.cummins.com"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include fluid dynamics, numerical methods, scientific computation.
