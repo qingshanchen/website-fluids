@@ -5,8 +5,8 @@ authors:
 - ChenQ
 - Lili Ju
 - Roger Temam
-date: "2020-12-31"
-doi: ""
+date: "2021-12-31"
+doi: "10.1007/s00211-021-01218-3"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Numerische Mathematik"
+publication_short: "Numer. Math."
 
 abstract: An energy-conserving and an energy-and-enstrophy conserving numerical schemes are derived, by approximating the Hamiltonian formulation, based on the Poisson brackets and the vorticity-divergence variables, of the inviscid shallow water flows. The conservation of the energy and/or enstrophy stems from skew-symmetry of the Poisson brackets, which is retained in the discrete approximations. These schemes operate on unstructured orthogonal dual meshes, over bounded or unbounded domains, and they are also shown to possess the same optimal dispersive wave relations as those of the Z-grid scheme.
 
