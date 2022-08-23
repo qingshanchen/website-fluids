@@ -6,22 +6,23 @@ authors:
 - Lili Ju
 - Roger Temam
 date: "2022-12-31"
-doi: ""
+doi: "10.1007/s10915-022-01908-6"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Journal of Scientific COmputing"
+publication_short: "J.~Sci.~Comput."
 
-abstract: []    
+abstract: A new energy and enstrophy conserving scheme (EEC) for the shallow water equations is proposed and evaluated using a suite of test cases over the global spherical or bounded domain.The evaluation is organized around a set of pre-defined properties: accuracy of individual operators, accuracy of the whole scheme, conservation of key quantities, control of the divergence variable, representation of the energy and enstrophy spectra, and simulation of nonlinear dynamics. The results confirm that the scheme is between the first and second order accurate, and conserves the total energy and potential enstrophy up to the time truncation errors. The scheme is capable of producing more physically realistic energy and enstrophy spectra, indicating that it can help prevent the unphysical energy cascade towards the finest resolvable scales. With an optimal representation of the dispersive wave relations, the scheme is able to keep the flow close to being non-divergent, and maintain the geostrophically balanced structures with large-scale geophysical flows over long-term simulations.
+
 tags:
 - Source Themes
 featured: false
